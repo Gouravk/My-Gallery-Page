@@ -1,0 +1,25 @@
+@media screen and (max-width:750px) {
+    body{
+        margin: 20px 1.5vw 10px 2vw;
+    }
+    
+    .pro-img{
+        width: 130px;
+        height: 130px;
+        border-radius: 15px;
+    }
+    .pro-name{
+        font-size: 12px;
+    }
+    .pro-name p{
+        font-size: 15px;
+    }
+    .tab-text{
+        padding:5px 20px;
+        font-size: 12px;
+    }
+    main{
+        width: 98%;
+    }
+    
+}
